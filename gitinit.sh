@@ -14,4 +14,5 @@ git add .
 git commit -m "build"
 
 #para ejecutarlo primero damos permisos
-# chmod +x gitinit.sh
+#chmod +x gitinit.sh
+#./gitinit.sh para ejecutarlo
