@@ -13,6 +13,6 @@ touch script.js
 git add .
 git commit -m "build"
 
-#para ejecutarlo primero damos permisos
-#chmod +x gitinit.sh
-#./gitinit.sh para ejecutarlo
+# Para ejecutarlo primero damos permisos
+# chmod +x gitinit.sh
+# ./gitinit.sh para ejecutarlo
